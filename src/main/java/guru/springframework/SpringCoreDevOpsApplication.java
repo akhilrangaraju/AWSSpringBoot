@@ -10,6 +10,6 @@ public class SpringCoreDevOpsApplication {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
 		//This is a jenkins automatic build test comment
-		//This is a test for github webhook
+		//This is a test for github webhook again
 	}
 }
